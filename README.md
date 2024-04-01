@@ -5,7 +5,7 @@ A verilog based Convolution Neural Network implementation
 ![alt text](/images/neuron.png)
 
 
-### an idea
+### an [idea](https://www.fpga4student.com/2017/06/tic-tac-toe-game-in-verilog-and-logisim.html)
 * I could make a tic tac toe game in verilog. which would have 3x3 matrix of rgb leds for control and a 3x3 numpad of button switches for input.
 * The first task would be to execute the entire playable game while 2 humans can play by pressing buttons to give inputs to the game and the winning condition can be coded and as a player(1 or 2) wins, that number is displayed on the 3x3 matrix to signify who has won.
 * The tricky part now
