@@ -1,0 +1,6 @@
+TD        { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; LINE-HEIGHT: 15pt; }
+BODY      { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; LINE-HEIGHT: 15pt; }
+H1        { LINE-HEIGHT: 22pt; }
+.NiceText { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; LINE-HEIGHT: 15pt; }
+.Footer   { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; LINE-HEIGHT: 15pt; }
+.NoBorder { border-style:none; }

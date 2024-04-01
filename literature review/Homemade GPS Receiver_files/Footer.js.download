@@ -1,0 +1,12 @@
+var encrypted = "lv/pd/fnmpibAxfseob;pumjbn";
+var decrypted = ""; 
+var i;
+ 
+for (i=0; i<encrypted.length; i++) {
+  decrypted = String.fromCharCode(encrypted.charCodeAt(i)-1) + decrypted;
+}
+
+document.getElementById("anc").href = decrypted; 
+document.getElementById("env").alt  = decrypted;
+
+// document.write("<img src=\"/cgi-bin/mailform?referrer=" + escape(document.referrer) + "\" height=1 width=1>");
